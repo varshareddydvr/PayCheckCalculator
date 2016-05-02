@@ -1,0 +1,11 @@
+socialsecurity tax 6.2
+medicare 1.45
+SDI tax 0.9%
+
+
+Medicaresurtax  - 3.8% 
+Single ->200k
+Married ->250k
+
+
+Exempt from Federal tax, State tax and FICA - (6.2% of socialsecurity tax + 1.45 of medicare  +  3.8% Medicaresurtax)
