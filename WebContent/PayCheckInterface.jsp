@@ -106,7 +106,7 @@
 					<td><select style="width: 240px;" id="filing_status"
 						name="filing_status">
 							<option selected="Selected" value="Single">Single</option>
-							<option value="Married">Married</option>
+							<option value="Joint">Married</option>
 					</select></td>
 				</tr>
 				<tr>
